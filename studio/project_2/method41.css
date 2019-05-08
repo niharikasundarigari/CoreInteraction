@@ -1,0 +1,399 @@
+header {
+  text-align: center;
+  margin-top: -220px;
+}
+
+body {
+  background-color: #E8E899;
+}
+
+
+h1  {
+  font-family: 'Righteous', cursive;
+  margin-left: 100px;
+  margin-top: 213px;
+}
+
+
+h2 {
+  font-family: 'Righteous', cursive;
+  margin-left: 100px;
+  margin-top: 74px;
+}
+
+.topnav {
+  display: none;
+}
+
+.topnav {
+  background-color: #E8C083;
+  overflow: hidden;
+  margin-left: 350px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #00000;
+  text-align: center;
+  padding: 5px 5px;
+  text-decoration: none;
+  background-color: #8BCEE8;
+  font-size: 17px;
+  margin-left: 30px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+.top {
+ 
+ color: #818181; 
+ text-decoration: none;
+ background-color: black;
+ font-size: 15px;
+}
+
+header {
+  font-size: 65px;
+  background-image: url("banana.jpg"); 
+}
+
+hr {
+  border: 2px solid black;
+}
+
+
+iframe {
+    margin-left: 200px;
+    width: 80vw;
+    height: 100vh;
+}
+
+.box {
+  
+    width: 30%;
+    height: 21vh;
+    background-color: black;
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    margin-top: 220px;
+}
+
+.box:hover {
+   background-color: brown;
+}
+
+#icon {
+    font-size: 30px;
+    font-family: kazimir, sans-serif;
+    font-weight: 300;
+    color: lightyellow;
+    text-decoration: none; 
+}
+
+.bar {
+  display: block;
+  padding: 7px;
+  background-color: black;
+  text-align: right;
+  margin-top: -8px;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.checklist {
+    font-size: 31px;
+    margin-left: 158px;
+    display: inline-block;
+    font-family: mr-eaves-modern, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 27%;
+    height: 120%;
+    display: inline-block;
+    background-color: cornsilk;
+
+}
+
+.checklist2 {
+    width: 30%;
+    height: 100%;
+    background-color: cornsilk;
+    font-size: 30px;
+    font-family: mr-eaves-modern, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline-block;
+    position: absolute;
+    
+}
+
+
+.checklist3 {
+  font-family: mr-eaves-modern, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  display: inline-block;
+  width: 446px;
+  height: 140%;
+  display: inline-block;
+  position: absolute;
+  margin-left: 436px;
+  background-color: cornsilk;
+}
+
+
+footer {
+  text-align: -webkit-center;
+}
+
+.pagination {
+  margin-top: 200px;
+}
+
+.pagination a {
+  color: black;
+  text-align: -webkit-center;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+/* Style the active/current link */
+.pagination a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+/* Add a grey background color on mouse-over */
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+
+@media only screen and (max-width: 1000px) {
+
+
+  body {
+  max-width: 1000px;
+  margin-left: -100px;
+}
+
+.bar {
+  width: 109%;
+}
+
+.hr {
+  width: 100vw;
+}
+
+header {
+  font-size: 70px; 
+  margin-left: 100px;
+  width: 100%;
+ }
+
+ .intro {
+  font-size: 18px;
+ }
+
+ .box {
+    position: relative;
+    margin-left: 250px;
+ }
+
+ .pagination {
+  text-align: center;
+  margin-left: 140px;
+ }
+
+ .checklist {
+  font-size: 20px;
+  width: 85%;
+  height: 50%;
+  margin-left: 250px;
+  position: relative;
+
+  }
+
+  .checklist2 {
+  font-size: 20px;
+  width: 85%;
+  margin-left: 250px;
+  margin-top: -40px;
+  position: relative;
+  
+ }
+
+ .checklist3 {
+  font-size: 20px;
+  width: 85%;
+  margin-left: 250px;
+  margin-top: -40px;
+  position: relative;
+ }
+}
+
+
+@media only screen and (max-width: 700px) {
+
+
+  body {
+  max-width: 800px;
+  margin-left: -100px;
+}
+
+
+header {
+  font-size: 50px; 
+  margin-left: 50px;
+ }
+
+ .intro {
+  font-size: 18px;
+ }
+
+ .box {
+    position: relative;
+    margin-left: 250px;
+ }
+
+ .pagination {
+  text-align: center;
+  margin-left: 140px;
+ }
+
+ .checklist {
+  font-size: 20px;
+  width: 70%;
+  height: 50%;
+  margin-left: 250px;
+  position: relative;
+
+  }
+
+  .checklist2 {
+  font-size: 20px;
+  width: 70%;
+  margin-left: 250px;
+  margin-top: -40px;
+  position: relative;
+  
+ }
+
+ .checklist3 {
+  font-size: 20px;
+  width: 70%;
+  margin-left: 250px;
+  margin-top: -40px;
+  position: relative;
+ }
+}
+
+@media only screen and (max-width: 400px) {
+  /* For mobile phones: */
+body {
+  max-width: 800px;
+  margin-left: -100px;
+}
+
+.sidenav {
+  display: none;
+}
+
+.topnav {
+  display: contents;
+  margin-left: 15px;
+}
+
+header {
+  font-size: 40px; 
+  margin-left: 10px;
+ }
+
+ .intro {
+  font-size: 18px;
+ }
+
+ .box {
+    position: relative;
+    margin-left: 250px;
+ }
+
+ .pagination {
+    text-align: center;
+    margin-left: 140px;
+ }
+
+ .checklist {
+  font-size: 20px;
+  width: 80%;
+  height: 50%;
+  margin-left: 100px;
+  margin-top: 50px;
+  position: relative;
+
+  }
+
+  .checklist2 {
+  font-size: 20px;
+  width: 80%;
+  margin-left: 100px;
+  margin-top: -40px;
+  position: relative;
+  
+ }
+
+ .checklist3 {
+  font-size: 20px;
+  width: 80%;
+  margin-left: 100px;
+  margin-top: -40px;
+  position: relative;
+ }
+
+ .box {
+  margin-top: 200px;
+ }
+ 
+}

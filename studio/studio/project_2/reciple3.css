@@ -1,0 +1,131 @@
+header {
+	text-align: center;
+	margin-top: -220px;
+}
+
+body {
+	background-color: #E8E899;
+}
+
+
+h1	{
+	font-family: 'Righteous', cursive;
+
+
+}
+
+header {
+	font-size: 165px;
+}
+
+.intro {
+	margin: 130px;
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.pages {
+	margin: 130px;
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.pages:hover {
+	background-color: #A5C2B7;
+
+}
+
+
+.h3 {
+	font-family: 'Fahkwang', sans-serif;
+	position: absolute;
+	text-align: right;
+	font-size: 130px;
+}
+ 
+
+.ingredients {
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 22px;
+	text-align: left;
+	padding: 60px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: right;
+	color: black;
+}
+
+.instructions {
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	text-align: left;
+	font-size: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 60px;
+	text-align: right;
+	color: black;
+	
+}
+
+.method {
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 33px;
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 60px;
+	text-align: right;
+	color: black;
+	
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: #E8E899 ;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 87px;
+}
+
+.topnav a:hover {
+  background-color: #E8E899 ;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #E8E899 ;
+  color: black;
+}

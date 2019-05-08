@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Visualization</title>
+	<link rel="stylesheet" type="text/css" href="page3.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+    function getTempColor(temp){
+        if (temp<5) return "#0A0369"; 
+        else if (temp<10) return "#033969";
+        else if (temp<15) return "#2634EB"; 
+        else if (temp<20) return "#5C6FEB";
+        else if (temp<25) return "#73A2EB";
+
+        else if (temp<30) return "#CC8D62";
+        else if (temp<35) return "#CC7147";
+        else if (temp<40) return "#CC4F31";
+        else if (temp<45) return "#CD2C18";
+        else if (temp<50) return "#A4201F";
+        else  return "#680000";  
+
+    }
+    
+    function getSpinDuration(speed){
+        if (speed<1) return "spin 10s linear infinite";
+        else if (speed<2) return "spin 8s linear infinite";
+        else if (speed<3) return "spin 6s linear infinite";
+        else if (speed<4) return "spin 4s linear infinite";
+        else return "spin 2s linear infinite";
+
+    }
+
+    var params = new window.URLSearchParams(window.location.search);
+//console.log(params.get('name'));
+
+var t1 = params.get('t1');
+var t2 = params.get('t2');
+
+
+var c1 = params.get('c1');
+var c2 = params.get('c2');
+
+
+var s1 = params.get('s1');
+var s2 = params.get('s2');
+
+
+$( document ).ready(function() {
+    //console.log( "ready!" );
+    var t1color = getTempColor(t1); 
+    var t2color = getTempColor(t2);
+
+    var spinduration1 = getSpinDuration(s1);
+    var spinduration2 = getSpinDuration(s2);
+  
+    $("#outercircle").css("background-color", t1color);
+    $("#innercircle").css("background-color", t2color);
+
+    $(".first").css("-webkit-animation", spinduration1);
+    $(".first").css("-moz-animation", spinduration1);
+    $(".first").css("animation", spinduration1);
+    
+    $(".second").css("-webkit-animation", spinduration2);
+    $(".second").css("-moz-animation", spinduration2);
+    $(".second").css("animation", spinduration2);
+
+});
+   
+</script>
+</head>
+<body>
+<div class="sidenav">
+<h2> Weather today </h2>
+</div>
+<div id="outercircle">
+	<div id="innercircle">
+		<div class="first" id="innerdes"> <img src="asset2.png"> </div>
+		<div class="second" id="innerdes2"> <img src="asset4.png"> </div>
+	</div>
+</div>
+
+</body>
+</html>

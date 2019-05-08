@@ -1,0 +1,31 @@
+h1 {
+	font-size: 40px;
+	font-family: 'Questrial', sans-serif;
+	align-content: center;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+}
+
+.content {
+	font-size: 25px;
+	font-family: 'Questrial', sans-serif;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Questrial', sans-serif;
+	color: Red;
+	font-size: 50px;
+	text-align: center;
+}
+
+.content:hover {
+	color: red;
+}
+
+body {
+	background-image: url(img/back.jpeg);
+}

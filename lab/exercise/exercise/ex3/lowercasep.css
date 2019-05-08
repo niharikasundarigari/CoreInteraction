@@ -1,0 +1,33 @@
+#lowercase-p {
+  width:400px;
+  height:500px;
+  border: 1px solid black;
+  position: relative;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+  width:400px;
+}
+
+.rectangle {
+	position: relative;
+	display: inline-block;
+	width: 55px;
+  height: 360px;
+	background-color: black;
+}
+
+.circle {
+  position: absolute;
+  height: 147px;
+  width: 166px;
+  background-color: black;
+  border-radius: 16%;
+  display: inline-block;
+  margin-left: -56px;
+  top: 24px;
+}

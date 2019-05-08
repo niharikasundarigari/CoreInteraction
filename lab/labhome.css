@@ -1,0 +1,21 @@
+h1 {
+	font-size: 40px;
+	font-family: 'Major Mono Display', monospace;
+	align-content: center;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+.content {
+	font-size: 25px;
+	font-family: 'Major Mono Display', monospace;
+}
+
+h2 {
+	font-family: 'Major Mono Display', monospace;
+	color: Red;
+	font-size: 30px;
+}

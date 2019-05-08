@@ -1,0 +1,87 @@
+
+h1 {
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 100px; 
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+h2 {
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 35px;
+  padding-left: 10px;
+}
+
+
+#circle1 {
+    width: 750px;
+    height: 750px;
+    background: #CEE5DD;
+    border-radius: 60%;
+    text-align: center;
+    margin-left: 25%;
+    position: absolute;
+  }
+
+#circle2 {
+    width: 550px;
+    height: 550px;
+    background: red;
+    border-radius: 60%;
+    text-align: center;
+    margin-left: 25%;
+    position: absolute;
+  }
+
+#circle3 {
+    width: 300px;
+    height: 300px;
+    background: black;
+    border-radius: 60%;
+    text-align: center;
+    margin-left: 25%;
+    position: absolute;
+  }
+
+
+img {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+}
+
+.body {
+   margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+button {
+    top: 100px;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 7px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #F0CC8A; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}

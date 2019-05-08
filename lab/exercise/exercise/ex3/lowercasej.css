@@ -1,0 +1,46 @@
+#lowercase-j {
+  width:400px;
+  height:500px;
+  border: 1px solid black;
+  position: relative;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+  width:400px;
+}
+
+.rectangle {
+    position: relative;
+    display: inline-block;
+    width: 55px;
+    height: 266px;
+    background-color: black;
+    margin-top: 161px;
+    margin-left: 50px;
+}
+
+.circle {
+    position: absolute;
+    height: 84px;
+    width: 91px;
+    background-color: black;
+    border-radius: 20%;
+    display: inline-block;
+    margin-top: 65px;
+    margin-left: -76px;
+}
+
+.rect {
+    position: relative;
+    display: inline-block;
+    height: 55px;
+    width: 91px;
+    background-color: black;
+    margin-top: 161px;
+    margin-left: -95px;
+    border-radius: 8%
+}

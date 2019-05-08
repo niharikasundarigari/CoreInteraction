@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Displaying clock </title>
+<link rel="stylesheet" type="text/css" href="time.css">
+<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+</head>
+<body onload = "chgbg()">
+<body>
+	<div id="clock"></div>
+	<p id="hex-color"></p>
+
+	<script type="text/javascript">
+	
+		
+		setInterval(displayclock, 500);
+
+		function displayclock () {
+			var time = new Date();
+			var hrs = time.getHours();
+			var min = time.getMinutes();
+			var sec = time.getSeconds();
+			var en = 'AM';
+			
+			if (hrs > 12) {
+				en = 'PM'
+			}
+
+			if (hrs > 12) {
+				hrs = hrs - 12;
+			}
+			if (hrs == 0) {
+				hrs = 12;
+			}
+			if (hrs < 10){
+				hrs = '0' + hrs;
+			}
+
+			if (min < 10) {
+				min = '0' + min;
+			}
+			if (sec < 10) {
+				sec ='0' + sec;
+			}
+			
+			
+
+			
+		document.getElementById('clock').innerHTML = hrs + ':' + min + ':' + sec + ':' + en;
+
+			}
+
+		function chgbg() {
+		var d = new Date();
+		var h = d.getHours();
+
+		if ((h >= 3) && (h < 5)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(early.gif)"}
+		if ((h >= 5) && (h < 8)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(morning.gif)"}
+		if ((h >= 8) && (h < 11)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(clear.gif)"}
+		if ((h >= 11) && (h < 4)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(afternoon.gif)"}
+		if ((h >= 4) && (h < 7)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(evening.gif)"}
+		if ((h >= 7) && (h < 11)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(night.gif)"}
+		if ((h >= 11) || (h<3)) {document.body.style.backgroundColor = "#FFFFFF"; document.body.style.backgroundImage="url(midnight.gif)"}
+
+		window.setTimeout (chgbg, 5000);  // update time (hour) every five seconds
+		}
+
+
+
+	</script>
+
+
+</body>
+</html>

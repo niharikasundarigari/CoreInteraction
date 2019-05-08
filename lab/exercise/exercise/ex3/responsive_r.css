@@ -1,0 +1,22 @@
+.rectangle {
+    
+    position: absolute;
+    display: inline-block;
+    width: 15%;
+    height: 77%;
+    background-color: black;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.circle {
+    
+    position: absolute;
+    width: 23%;
+    height: 24%;
+    background-color: black;
+    border-radius: 15%;
+    display: inline-block;
+    margin-top: 107px;
+    left: 323px;
+}

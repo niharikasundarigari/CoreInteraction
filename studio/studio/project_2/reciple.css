@@ -1,0 +1,145 @@
+header {
+	text-align: center;
+	margin-top: -220px;
+}
+
+body {
+	background-image: url("bg.jpg"); 
+}
+
+
+h1	{
+	font-family: 'Righteous', cursive;
+
+
+}
+
+header {
+	font-size: 165px;
+}
+
+.intro {
+	margin: 130px;
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.pages {
+	margin: 130px;
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+.pages:hover {
+	background-color: #A5C2B7;
+
+}
+
+
+.h3 {
+	font-family: 'Fahkwang', sans-serif;
+	position: absolute;
+	text-align: right;
+	font-size: 130px;
+}
+
+
+.rectangle {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	position: absolute;
+	background-color: #C2BFA5;
+	left: 260px;
+
+}
+
+.rectangle2 {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	position: absolute;
+	background-color: #FFE3B5;
+	left: 550px;
+
+}
+
+.rectangle3 {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	position: absolute;
+	background-color: #E8BCB1;
+	left: 850px;
+}
+ 
+
+.ingredients {
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 22px;
+	text-align: left;
+	padding: 60px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: right;
+	color: #90B0FF;
+}
+
+.ingredients:hover {
+	color: #C1E86E;
+}
+
+.instructions {
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	text-align: left;
+	font-size: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 60px;
+	text-align: right;
+	color: #A2DEDC;
+	
+}
+
+.instructions:hover {
+	color: #74FFE8;
+}
+
+.method {
+	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 33px;
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 60px;
+	text-align: right;
+	color: #DECDAE;
+	
+
+}
+.method:hover {
+	color: #AEDEC3;
+}
+
+ul {
+ 	font-family: kazimir, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 30px;
+	text-decoration: none;
+	color: #90B0FF;
+}

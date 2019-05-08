@@ -1,0 +1,109 @@
+
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size: 25px;
+}
+
+.text {
+	font-family: chinese-rocks, sans-serif;
+	font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.one {
+	background-color: crimson;
+	font-size: 300px;
+}
+
+.two {
+	background-color: #f3b63f;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+
+.three {
+	background-color: #f7f6ea;
+	font-size: 300px;
+}
+
+.four {
+	background-color: crimson;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+
+.five {
+	background-color: #f3b63f;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+
+.six {
+	background-color: #f7f6ea;
+	font-size: 300px;
+}
+
+.seven {
+	background-color: crimson;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+
+.eight {
+	background-color: #f3b63f;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+
+.nine {
+	background-color: #f7f6ea;
+	font-size: 300px;
+}
+
+.ten {
+	background-color: crimson;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+
+.eleven {
+	background-color: #f3b63f;
+	font-size: 300px;
+}
+
+.twelve {
+	background-color: #f7f6ea;
+	font-family: coquette, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
+.emphasis {
+	font-size: 200px; 
+	font-style: bold;
+}
+.colorR {
+	color: crimson;
+}
+.colorW {
+	color: #f7f6ea;
+}
+.colorY {
+	color: #f3b63f;
+}

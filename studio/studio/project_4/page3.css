@@ -1,0 +1,112 @@
+
+h1 {
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 100px; 
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+h2 {
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 35px;
+  padding-left: 10px;
+}
+
+
+#outercircle {
+    width: 750px;
+    height: 750px;
+    background: #8BB7E8;
+    border-radius: 60%;
+    text-align: center;
+    margin-left: 25%;
+    position: relative;
+  }
+
+#innercircle {
+    width: 550px;
+    height: 550px;
+    background: #B0C5D4;
+    border-radius: 55%;
+    text-align: center;
+    margin-left: 25%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -272px 0px 0px -272px;
+  }
+
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+
+
+.first {
+    position: relative;
+    margin-top: -450px;
+    margin-left:-550px;
+    top: 50%;
+    left: 50%;
+    -webkit-animation:spin 8s linear infinite;
+    -moz-animation:spin 8s linear infinite;
+    animation:spin 8s linear infinite;
+}
+
+
+.second {
+   position: relative;
+    margin-top: -600px; 
+    margin-left: -475px;
+    top: 50%;
+    left: 50%;
+    -webkit-animation:spin 4s linear infinite;
+    -moz-animation:spin 4s linear infinite;
+    animation:spin 4s linear infinite;
+}
+
+
+
+
+img {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+}
+
+.body {
+   margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+button {
+    top: 100px;
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 7px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #F0CC8A; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}

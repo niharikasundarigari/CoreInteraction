@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Baloo Chettan', cursive;
+	color: violet;
+}
+
+.gif {
+	align-items: center;
+	width: 200px;
+	height: 100px;
+	background-image: url("1.gif");
+    background-repeat: repeat-y;
+}
+
+body{
+    background-image: url('1.gif');
+    background-size: cover;
+    background-repeat: repeat-y;
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+body{
+    background-image: url('1.jpg');
+    background-size: cover;
+    font-size: 40%;
+    color: black;
+    background-repeat: repeat-y;
+}
+
+h1 {
+	font-size: 40px;
+    color: white;
+
+}
+
+@media only screen and (max-width: 700px) {
+	}
+
+	
+@media only screen and (max-width: 400px) {
+}

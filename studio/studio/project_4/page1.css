@@ -1,0 +1,1417 @@
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	:root {
+		--web-view-ids: Web_1920___1;
+	}
+	#Web_1920___1 * {
+		margin: 0;
+		padding: 0;
+	}
+	.Web_1920___1_Class {
+		position: fixed;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		max-width: 1024px;
+		max-height: 800px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: Web 1920 – 1;
+		--web-view-id: Web_1920___1;
+		--web-scale-to-fit: true;
+		--web-enable-deep-linking: true;
+	}
+	.Group_9_Class {
+		opacity: 1;
+		position: absolute;
+		width: 1920.126px;
+		height: 1081px;
+		left: -0.126px;
+		top: -1px;
+		overflow: visible;
+	}
+	.Layer_2_Class {
+		opacity: 1;
+		position: absolute;
+		width: 1920.126px;
+		height: 1079.323px;
+		left: 0px;
+		top: 1.677px;
+		overflow: visible;
+	}
+	.Ellipse_1_Class {
+		opacity: 1;
+		fill: rgba(206,229,221,1);
+		stroke: rgb(226, 240, 239);
+		stroke-width: 12px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Ellipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 995.503px;
+		height: 1014.555px;
+		left: 529.877px;
+		top: 37.976px;
+	}
+	.Rectangle_1_Class {
+		opacity: 1;
+		fill: rgba(240,204,138,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 272.087px;
+		height: 1078.781px;
+		left: 0px;
+		top: 0.089px;
+	}
+	.Path_20_Class {
+		opacity: 1;
+		fill: rgba(240,204,138,1);
+	}
+	.Path_20 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 0px;
+		left: 1696.931px;
+		width: 223.195px;
+		height: 1079.323px;
+	}
+	.Group_8_Class {
+		opacity: 1;
+		position: absolute;
+		width: 79.503px;
+		height: 613.767px;
+		left: 1734.041px;
+		top: 136.729px;
+		overflow: visible;
+	}
+	.Group_7_Class {
+		opacity: 1;
+		position: absolute;
+		width: 79.503px;
+		height: 613.767px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Group_6_Class {
+		opacity: 1;
+		position: absolute;
+		width: 79.503px;
+		height: 613.767px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Path_1_Class {
+		opacity: 1;
+		fill: rgba(241,203,137,1);
+		stroke: rgb(26, 24, 24);
+		stroke-width: 6px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Path_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 449.685px;
+		left: 1720.206px;
+		width: 36.592px;
+		height: 42.995px;
+	}
+	.Layer_1_Class {
+		opacity: 1;
+		position: absolute;
+		width: 827.697px;
+		height: 833.042px;
+		left: 612.769px;
+		top: 124.603px;
+		overflow: visible;
+	}
+	.Path_2_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_2 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 418.148px;
+		left: 414.063px;
+		width: 185.294px;
+		height: 192.639px;
+	}
+	.Path_3_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_3 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 301.264px;
+		left: 414.063px;
+		width: 195.482px;
+		height: 163.409px;
+	}
+	.Path_4_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_4 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 207.674px;
+		left: 392.269px;
+		width: 156.659px;
+		height: 201.717px;
+	}
+	.Path_5_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_5 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 418.334px;
+		left: 267.044px;
+		width: 154.411px;
+		height: 202.188px;
+	}
+	.Path_6_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_6 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 216.931px;
+		left: 224.509px;
+		width: 185.294px;
+		height: 192.639px;
+	}
+	.Path_7_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_7 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 355.87px;
+		left: 214.911px;
+		width: 193.708px;
+		height: 164.161px;
+	}
+	.Path_8_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_8 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 165.483px;
+		left: 531.688px;
+		width: 151.063px;
+		height: 140.316px;
+	}
+	.Path_9_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_9 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 454.585px;
+		left: 577.712px;
+		width: 154.975px;
+		height: 123.307px;
+	}
+	.Path_10_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_10 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 584.019px;
+		left: 411.382px;
+		width: 124.652px;
+		height: 153.769px;
+	}
+	.Path_11_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_11 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 83.466px;
+		left: 286.224px;
+		width: 125.695px;
+		height: 152.532px;
+	}
+	.Path_12_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_12 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 224.319px;
+		left: 79.162px;
+		width: 156.255px;
+		height: 123.821px;
+	}
+	.Path_13_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_13 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 519.198px;
+		left: 126.464px;
+		width: 152.979px;
+		height: 136.722px;
+	}
+	.Path_14_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_14 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 251.468px;
+		left: 603.646px;
+		width: 224.051px;
+		height: 183.843px;
+	}
+	.Path_15_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_15 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 559.897px;
+		left: 553.61px;
+		width: 210.373px;
+		height: 218.228px;
+	}
+	.Path_16_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_16 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 603.364px;
+		left: 171.794px;
+		width: 174.998px;
+		height: 229.678px;
+	}
+	.Path_17_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_17 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 361.757px;
+		left: 0px;
+		width: 217.678px;
+		height: 186.707px;
+	}
+	.Path_18_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_18 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 36.074px;
+		left: 79.162px;
+		width: 205.065px;
+		height: 221.769px;
+	}
+	.Path_19_Class {
+		opacity: 1;
+		fill: rgba(255,239,213,1);
+	}
+	.Path_19 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 0px;
+		left: 441.321px;
+		width: 180.734px;
+		height: 227.154px;
+	}
+	.Layer_3_Class {
+		opacity: 1;
+		position: absolute;
+		width: 1909.138px;
+		height: 710.352px;
+		left: 10.988px;
+		top: 0px;
+		overflow: visible;
+	}
+	.Weather__Today_Class {
+		opacity: 1;
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 266.825px;
+		height: 234.741px;
+		line-height: 57px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Forma DJR Banner;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 55px;
+		color: rgba(26,24,24,1);
+	}
+	.Line_1_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		top: 185.262px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_2_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		top: 195.953px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_3_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_3 {
+		overflow: visible;
+		position: absolute;
+		top: 206.644px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_4_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_4 {
+		overflow: visible;
+		position: absolute;
+		top: 217.336px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_5_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_5 {
+		overflow: visible;
+		position: absolute;
+		top: 228.027px;
+		left: 1802.389px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_6_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_6 {
+		overflow: visible;
+		position: absolute;
+		top: 239.939px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_7_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_7 {
+		overflow: visible;
+		position: absolute;
+		top: 250.63px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_8_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_8 {
+		overflow: visible;
+		position: absolute;
+		top: 261.321px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_9_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_9 {
+		overflow: visible;
+		position: absolute;
+		top: 272.013px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_10_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_10 {
+		overflow: visible;
+		position: absolute;
+		top: 282.704px;
+		left: 1802.389px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_11_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_11 {
+		overflow: visible;
+		position: absolute;
+		top: 293.395px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_12_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_12 {
+		overflow: visible;
+		position: absolute;
+		top: 304.086px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_13_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_13 {
+		overflow: visible;
+		position: absolute;
+		top: 314.777px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_14_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_14 {
+		overflow: visible;
+		position: absolute;
+		top: 325.469px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_15_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_15 {
+		overflow: visible;
+		position: absolute;
+		top: 336.16px;
+		left: 1802.389px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_16_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_16 {
+		overflow: visible;
+		position: absolute;
+		top: 346.851px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_17_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_17 {
+		overflow: visible;
+		position: absolute;
+		top: 357.542px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_18_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_18 {
+		overflow: visible;
+		position: absolute;
+		top: 368.234px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_19_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_19 {
+		overflow: visible;
+		position: absolute;
+		top: 378.925px;
+		left: 1802.389px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_20_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_20 {
+		overflow: visible;
+		position: absolute;
+		top: 389.616px;
+		left: 1802.389px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_21_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_21 {
+		overflow: visible;
+		position: absolute;
+		top: 400.307px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_22_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_22 {
+		overflow: visible;
+		position: absolute;
+		top: 410.998px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_23_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_23 {
+		overflow: visible;
+		position: absolute;
+		top: 421.69px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_24_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_24 {
+		overflow: visible;
+		position: absolute;
+		top: 432.381px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_25_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_25 {
+		overflow: visible;
+		position: absolute;
+		top: 443.072px;
+		left: 1802.303px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_26_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_26 {
+		overflow: visible;
+		position: absolute;
+		top: 453.763px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_27_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_27 {
+		overflow: visible;
+		position: absolute;
+		top: 464.454px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_28_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_28 {
+		overflow: visible;
+		position: absolute;
+		top: 475.146px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_29_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_29 {
+		overflow: visible;
+		position: absolute;
+		top: 485.837px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_30_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_30 {
+		overflow: visible;
+		position: absolute;
+		top: 496.528px;
+		left: 1802.303px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_31_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_31 {
+		overflow: visible;
+		position: absolute;
+		top: 507.219px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_32_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_32 {
+		overflow: visible;
+		position: absolute;
+		top: 517.91px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_33_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_33 {
+		overflow: visible;
+		position: absolute;
+		top: 528.602px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_34_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_34 {
+		overflow: visible;
+		position: absolute;
+		top: 539.293px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_35_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_35 {
+		overflow: visible;
+		position: absolute;
+		top: 549.984px;
+		left: 1802.303px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_36_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_36 {
+		overflow: visible;
+		position: absolute;
+		top: 560.675px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_37_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_37 {
+		overflow: visible;
+		position: absolute;
+		top: 571.366px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_38_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_38 {
+		overflow: visible;
+		position: absolute;
+		top: 582.058px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_39_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_39 {
+		overflow: visible;
+		position: absolute;
+		top: 592.749px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_40_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_40 {
+		overflow: visible;
+		position: absolute;
+		top: 603.44px;
+		left: 1802.303px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_41_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_41 {
+		overflow: visible;
+		position: absolute;
+		top: 614.131px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_42_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_42 {
+		overflow: visible;
+		position: absolute;
+		top: 624.822px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_43_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_43 {
+		overflow: visible;
+		position: absolute;
+		top: 635.514px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_44_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_44 {
+		overflow: visible;
+		position: absolute;
+		top: 646.205px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_45_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_45 {
+		overflow: visible;
+		position: absolute;
+		top: 656.896px;
+		left: 1802.303px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_46_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_46 {
+		overflow: visible;
+		position: absolute;
+		top: 667.587px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_47_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_47 {
+		overflow: visible;
+		position: absolute;
+		top: 678.279px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_48_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_48 {
+		overflow: visible;
+		position: absolute;
+		top: 688.97px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_49_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_49 {
+		overflow: visible;
+		position: absolute;
+		top: 699.661px;
+		left: 1802.303px;
+		width: 29.07px;
+		height: 1px;
+	}
+	.Line_50_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_50 {
+		overflow: visible;
+		position: absolute;
+		top: 710.352px;
+		left: 1802.303px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Line_51_Class {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(255, 255, 255);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Line_51 {
+		overflow: visible;
+		position: absolute;
+		top: 174.571px;
+		left: 1802.389px;
+		width: 38.046px;
+		height: 1px;
+	}
+	.Temperature_Scale_Class {
+		opacity: 1;
+		position: absolute;
+		left: 1696.684px;
+		top: 13.705px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 213.455px;
+		height: 129.406px;
+		line-height: 39px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: Forma DJR Banner;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 33px;
+		color: rgba(26,24,24,1);
+	}
+	._Class {
+		opacity: 1;
+		position: absolute;
+		left: 1855.323px;
+		top: 107.8px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 1px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+	}
+	._A0_Text_4_Class {
+		opacity: 1;
+		position: absolute;
+		left: 1893.415px;
+		top: 35.628px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 1px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+	}
+	.City___New_York_Class {
+		opacity: 1;
+		position: absolute;
+		left: 0px;
+		top: 154.053px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 213.455px;
+		height: 463.804px;
+		line-height: 33px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Forma DJR Banner;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 29px;
+		color: rgba(26,24,24,1);
+	}
+	._A0_Text_6_Class {
+		opacity: 1;
+		position: absolute;
+		left: 91.445px;
+		top: 211.14px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 1px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+	}
+
+

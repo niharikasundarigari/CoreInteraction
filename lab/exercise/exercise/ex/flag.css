@@ -1,0 +1,26 @@
+ .blue {
+    position: relative;
+    display: inline-block;
+    background-color: darkblue;
+    width: 100vw;
+    height: 33.3vh;
+    left: -10px;
+ }
+
+  .white {
+    position: relative;
+    display: inline-block;
+    background-color: white;
+    width: 100vw;
+    height: 33.3vh;
+    left: -10px;
+ }
+
+  .red {
+    position: relative;
+    display: inline-block;
+    background-color: red;
+    width: 100vw;
+    height: 33.3vh;
+    left: -10px;
+ }

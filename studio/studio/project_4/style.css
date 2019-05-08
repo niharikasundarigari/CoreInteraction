@@ -1,0 +1,94 @@
+.constant {
+    padding: 12px;
+    text-align: left;
+    font-size: 20px;
+    font-family: forma-djr-banner, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    position: relative;
+    background-color: cornsilk;
+    margin-top: 200px;
+}
+
+.newyork {
+    position: relative;
+    text-align: left;
+    font-size: 20px;
+    font-family: forma-djr-banner, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: cornsilk;
+    margin-left: 0px;
+    padding: 12px;
+
+}
+
+
+.group1 {
+  font-size: 35px;
+  padding-left: 20px;
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.group2 {
+  font-size: 35px;
+  padding-left: 20px;
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  text-align: left;
+  font-family: forma-djr-banner, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 100px; 
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+  display: inline-block;
+}
+
+img {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+}
+
+.img {
+  padding: 0px 10px;
+}
+
+.body {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: thin;
+    padding: 20px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin-left: 2%;
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 160px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #F0CC8A; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}

@@ -1,0 +1,137 @@
+#lowercase-j {
+  width:400px;
+  height:500px;
+  position: relative;
+  display: inline-block;
+}
+
+
+.rectangle1 {
+    position: relative;
+    display: inline-block;
+    width: 55px;
+    height: 266px;
+    background-color: black;
+    margin-top: 161px;
+    margin-left: 50px;
+}
+
+.circle1 {
+    position: absolute;
+    height: 84px;
+    width: 91px;
+    background-color: black;
+    border-radius: 20%;
+    display: inline-block;
+    margin-top: 65px;
+    margin-left: -76px;
+}
+
+.rect1 {
+    position: relative;
+    display: inline-block;
+    height: 55px;
+    width: 91px;
+    background-color: black;
+    margin-top: 161px;
+    margin-left: -95px;
+    border-radius: 8%
+}
+
+
+#lowercase-p {
+  width:400px;
+  height:500px;
+  position: relative;
+  display: inline-block;
+}
+
+
+.rectangle2 {
+  position: relative;
+  display: inline-block;
+  width: 55px;
+  height: 340px;
+  background-color: black;
+}
+
+.circle2 {
+  position: absolute;
+  height: 147px;
+  width: 166px;
+  background-color: black;
+  border-radius: 16%;
+  display: inline-block;
+  margin-left: -56px;
+  top: 24px;
+}
+
+#lowercase-r {
+  width:400px;
+  height:500px;
+  position: relative;
+  display: inline-block;
+}
+
+
+.rectangle3 {
+    position: relative;
+    display: inline-block;
+    width: 59px;
+    height: 263px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+.circle3 {
+    position: absolute;
+    height: 86px;
+    width: 87px;
+    background-color: black;
+    border-radius: 15%;
+    display: inline-block;
+    margin-top: 100px;
+}
+
+#number6 {
+  width:400px;
+  height:500px;
+  position: relative;
+  display: inline-block;
+}
+
+.horizontal {
+    position: relative;
+    display: inline-block;
+    height: 55px;
+    background-color: black;
+    top: -254px;
+    width: 132px;
+    left: 25px;
+    border-radius: 21%;
+}
+
+.rectangle4 {
+    position: relative;
+    display: inline-block;
+    width: 55px;
+    height: 303px;
+    background-color: black;
+    margin-top: 45px;
+    margin-left: -111px;
+    border-radius: 10%;
+}
+
+.circle4 {
+    position: absolute;
+    height: 142px;
+    width: 157px;
+    background-color: black;
+    border-radius: 20%;
+    display: inline-block;
+    margin-top: 226px;
+    margin-left: -59px;
+}
+
+
+

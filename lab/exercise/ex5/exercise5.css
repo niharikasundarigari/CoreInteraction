@@ -1,0 +1,77 @@
+body {
+  background-color: lightyellow;
+  animation-name: color;
+  animation-duration: 5s;
+}
+
+
+@keyframes color {
+  0% {background-color: white;}
+  50% {background-color: lightblue;}
+  100% {background-color: lightpink;}
+}
+
+
+.flower{
+  background: lightyellow;
+  width: 80%;
+  height: 60%;
+  position: relative;
+  animation-name: wobble;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  align-items: center;
+  margin-left: 80px;
+}
+
+.flower:hover {
+  background-image: url(sky.gif);
+
+}
+  
+  @keyframes wobble {
+  from {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  15% {
+    -webkit-transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+    transform: translate3d(-25%, 0, 0) rotate3d(0, 0, 1, -5deg);
+  }
+
+  30% {
+    -webkit-transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+    transform: translate3d(20%, 0, 0) rotate3d(0, 0, 1, 3deg);
+  }
+
+  45% {
+    -webkit-transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+    transform: translate3d(-15%, 0, 0) rotate3d(0, 0, 1, -3deg);
+  }
+
+  50% {
+    transform: rotate(180deg);
+  }
+
+  60% {
+    -webkit-transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+    transform: translate3d(10%, 0, 0) rotate3d(0, 0, 1, 2deg);
+  }
+
+  75% {
+    -webkit-transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+    transform: translate3d(-5%, 0, 0) rotate3d(0, 0, 1, -1deg);
+  }
+
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.wobble {
+  -webkit-animation-name: wobble;
+  animation-name: wobble;
+}
+
